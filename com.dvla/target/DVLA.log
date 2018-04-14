@@ -1,0 +1,272 @@
+2018-04-14 16:17:56 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:18:01 INFO  DVLA:28 - Reading all files within the folder supplied and print the relavent File Details
+
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'GIF Sample Image file.GIF', File mime type: 'image/gif', File Size: '2519 bytes', File Extension: 'GIF'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'JPG Sample Image file.JPG', File mime type: 'image/jpeg', File Size: '20605 bytes', File Extension: 'JPG'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'MHT Sample Image file.MHT', File mime type: 'application/octet-stream', File Size: '7278 bytes', File Extension: 'MHT'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'PNG Sample Image file.PNG', File mime type: 'application/octet-stream', File Size: '4780 bytes', File Extension: 'PNG'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'Sample DOC Word Doc.doc', File mime type: 'application/octet-stream', File Size: '22528 bytes', File Extension: 'doc'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'Sample DOCX Word Doc.docx', File mime type: 'application/octet-stream', File Size: '11353 bytes', File Extension: 'docx'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'Sample Image file.bmp', File mime type: 'application/octet-stream', File Size: '265734 bytes', File Extension: 'bmp'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'Sample PDF Doc.pdf', File mime type: 'application/octet-stream', File Size: '147879 bytes', File Extension: 'pdf'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'Sample RTF Doc.rtf', File mime type: 'application/rtf', File Size: '41683 bytes', File Extension: 'rtf'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'Sample TXT Doc.txt', File mime type: 'text/plain', File Size: '17 bytes', File Extension: 'txt'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'VehicleDetails.xlsx', File mime type: 'application/octet-stream', File Size: '8027 bytes', File Extension: 'xlsx'
+2018-04-14 16:18:01 INFO  DVLA:26 - FileName: 'VehicleDetails_CSV.csv', File mime type: 'application/octet-stream', File Size: '120 bytes', File Extension: 'csv'
+2018-04-14 16:18:01 INFO  DVLA:30 -  
+2018-04-14 16:18:01 INFO  DVLA:38 - Listing all Valid files within the folder supplied
+
+2018-04-14 16:18:01 INFO  DVLA:41 - VehicleDetails.xlsx
+2018-04-14 16:18:01 INFO  DVLA:41 - VehicleDetails_CSV.csv
+2018-04-14 16:18:01 INFO  DVLA:44 -  
+2018-04-14 16:18:01 INFO  DVLA:49 - Listing all Invalid files within the folder supplied
+
+2018-04-14 16:18:01 INFO  DVLA:57 - GIF Sample Image file.GIF
+2018-04-14 16:18:01 INFO  DVLA:57 - JPG Sample Image file.JPG
+2018-04-14 16:18:01 INFO  DVLA:57 - MHT Sample Image file.MHT
+2018-04-14 16:18:01 INFO  DVLA:57 - PNG Sample Image file.PNG
+2018-04-14 16:18:01 INFO  DVLA:57 - Sample DOC Word Doc.doc
+2018-04-14 16:18:01 INFO  DVLA:57 - Sample DOCX Word Doc.docx
+2018-04-14 16:18:01 INFO  DVLA:57 - Sample Image file.bmp
+2018-04-14 16:18:01 INFO  DVLA:57 - Sample PDF Doc.pdf
+2018-04-14 16:18:01 INFO  DVLA:57 - Sample RTF Doc.rtf
+2018-04-14 16:18:01 INFO  DVLA:57 - Sample TXT Doc.txt
+2018-04-14 16:18:01 INFO  DVLA:59 -  
+2018-04-14 16:18:01 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:18:01 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:18:01 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:18:03 INFO  DVLA:23 - Searching for Vehicle Registration Number : X962 HAV
+2018-04-14 16:18:03 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> id: Vrm], Text: X962 HAV
+2018-04-14 16:18:03 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> name: Continue]
+2018-04-14 16:18:03 INFO  DVLA:32 - Validating the Vehicle details displayed : X962 HAV, TOYOTA, GOLD
+2018-04-14 16:18:03 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:18:03 INFO  DVLA:23 - Searching for Vehicle Registration Number : PJ51 KXF
+2018-04-14 16:18:03 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> id: Vrm], Text: PJ51 KXF
+2018-04-14 16:18:03 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> name: Continue]
+2018-04-14 16:18:04 INFO  DVLA:32 - Validating the Vehicle details displayed : PJ51 KXF, FORD, GREY
+2018-04-14 16:18:04 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:18:04 INFO  DVLA:23 - Searching for Vehicle Registration Number : KU03 OWV
+2018-04-14 16:18:04 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> id: Vrm], Text: KU03 OWV
+2018-04-14 16:18:04 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> name: Continue]
+2018-04-14 16:18:04 INFO  DVLA:32 - Validating the Vehicle details displayed : KU03 OWV, FORD, BLUE
+2018-04-14 16:18:04 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:18:04 INFO  DVLA:23 - Searching for Vehicle Registration Number : Y82 JPU
+2018-04-14 16:18:04 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> id: Vrm], Text: Y82 JPU
+2018-04-14 16:18:05 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> name: Continue]
+2018-04-14 16:18:05 INFO  DVLA:32 - Validating the Vehicle details displayed : Y82 JPU, FORD, GREEN
+2018-04-14 16:18:05 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:18:05 INFO  DVLA:23 - Searching for Vehicle Registration Number : MJ65 UFP
+2018-04-14 16:18:05 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> id: Vrm], Text: MJ65 UFP
+2018-04-14 16:18:05 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> name: Continue]
+2018-04-14 16:18:05 INFO  DVLA:32 - Validating the Vehicle details displayed : MJ65 UFP, BMW, WHITE
+2018-04-14 16:18:06 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:18:06 INFO  DVLA:23 - Searching for Vehicle Registration Number : MK04 MHJ
+2018-04-14 16:18:06 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> id: Vrm], Text: MK04 MHJ
+2018-04-14 16:18:06 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> name: Continue]
+2018-04-14 16:18:06 INFO  DVLA:32 - Validating the Vehicle details displayed : MK04 MHJ, VAUXHALL, SILVER
+2018-04-14 16:18:06 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (06a21c366b75ea1db07cf04b8b647b51)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:21:13 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:21:17 INFO  DVLA:29 - Reading all files within the folder supplied and print the relavent File Details
+
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'GIF Sample Image file.GIF', File mime type: 'image/gif', File Size: '2519 bytes', File Extension: 'GIF'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'JPG Sample Image file.JPG', File mime type: 'image/jpeg', File Size: '20605 bytes', File Extension: 'JPG'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'MHT Sample Image file.MHT', File mime type: 'application/octet-stream', File Size: '7278 bytes', File Extension: 'MHT'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'PNG Sample Image file.PNG', File mime type: 'application/octet-stream', File Size: '4780 bytes', File Extension: 'PNG'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'Sample DOC Word Doc.doc', File mime type: 'application/octet-stream', File Size: '22528 bytes', File Extension: 'doc'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'Sample DOCX Word Doc.docx', File mime type: 'application/octet-stream', File Size: '11353 bytes', File Extension: 'docx'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'Sample Image file.bmp', File mime type: 'application/octet-stream', File Size: '265734 bytes', File Extension: 'bmp'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'Sample PDF Doc.pdf', File mime type: 'application/octet-stream', File Size: '147879 bytes', File Extension: 'pdf'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'Sample RTF Doc.rtf', File mime type: 'application/rtf', File Size: '41683 bytes', File Extension: 'rtf'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'Sample TXT Doc.txt', File mime type: 'text/plain', File Size: '17 bytes', File Extension: 'txt'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'VehicleDetails.xlsx', File mime type: 'application/octet-stream', File Size: '8029 bytes', File Extension: 'xlsx'
+2018-04-14 16:21:17 INFO  DVLA:26 - FileName: 'VehicleDetails_CSV.csv', File mime type: 'application/octet-stream', File Size: '118 bytes', File Extension: 'csv'
+2018-04-14 16:21:17 INFO  DVLA:30 -  
+2018-04-14 16:21:17 INFO  DVLA:39 - Listing all Valid files within the folder supplied
+
+2018-04-14 16:21:17 INFO  DVLA:41 - VehicleDetails.xlsx
+2018-04-14 16:21:17 INFO  DVLA:41 - VehicleDetails_CSV.csv
+2018-04-14 16:21:17 INFO  DVLA:44 -  
+2018-04-14 16:21:17 INFO  DVLA:50 - Listing all Invalid files within the folder supplied
+
+2018-04-14 16:21:17 INFO  DVLA:57 - GIF Sample Image file.GIF
+2018-04-14 16:21:17 INFO  DVLA:57 - JPG Sample Image file.JPG
+2018-04-14 16:21:17 INFO  DVLA:57 - MHT Sample Image file.MHT
+2018-04-14 16:21:17 INFO  DVLA:57 - PNG Sample Image file.PNG
+2018-04-14 16:21:17 INFO  DVLA:57 - Sample DOC Word Doc.doc
+2018-04-14 16:21:17 INFO  DVLA:57 - Sample DOCX Word Doc.docx
+2018-04-14 16:21:17 INFO  DVLA:57 - Sample Image file.bmp
+2018-04-14 16:21:17 INFO  DVLA:57 - Sample PDF Doc.pdf
+2018-04-14 16:21:17 INFO  DVLA:57 - Sample RTF Doc.rtf
+2018-04-14 16:21:17 INFO  DVLA:57 - Sample TXT Doc.txt
+2018-04-14 16:21:17 INFO  DVLA:59 -  
+2018-04-14 16:21:17 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:21:18 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:21:18 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (fe341a2eb9ad8a9550875f3a6833d83e)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:21:19 INFO  DVLA:23 - Searching for Vehicle Registration Number : X962 HAV
+2018-04-14 16:21:19 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (fe341a2eb9ad8a9550875f3a6833d83e)] -> id: Vrm], Text: X962 HAV
+2018-04-14 16:21:19 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (fe341a2eb9ad8a9550875f3a6833d83e)] -> name: Continue]
+2018-04-14 16:21:20 INFO  DVLA:32 - Validating the Vehicle details displayed : X962 HAV, TOYOTA, WHITE
+2018-04-14 16:21:20 INFO  DVLA:60 - ***Placed screen shot in C:\IdeaProjects\com.dvla\target\screenshots\screenshot_20180414_162120.png ***
+2018-04-14 16:21:21 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:21:24 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:21:25 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:21:25 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (1653d15fcbb5a3ae95bee793efe3e097)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:21:26 INFO  DVLA:60 - ***Placed screen shot in C:\IdeaProjects\com.dvla\target\screenshots\screenshot_20180414_162126.png ***
+2018-04-14 16:25:24 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:25:28 INFO  DVLA:37 - Reading all files within the folder supplied and print the relavent File Details
+
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'GIF Sample Image file.GIF', File mime type: 'image/gif', File Size: '2519 bytes', File Extension: 'GIF'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'JPG Sample Image file.JPG', File mime type: 'image/jpeg', File Size: '20605 bytes', File Extension: 'JPG'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'MHT Sample Image file.MHT', File mime type: 'application/octet-stream', File Size: '7278 bytes', File Extension: 'MHT'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'PNG Sample Image file.PNG', File mime type: 'application/octet-stream', File Size: '4780 bytes', File Extension: 'PNG'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'Sample DOC Word Doc.doc', File mime type: 'application/octet-stream', File Size: '22528 bytes', File Extension: 'doc'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'Sample DOCX Word Doc.docx', File mime type: 'application/octet-stream', File Size: '11353 bytes', File Extension: 'docx'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'Sample Image file.bmp', File mime type: 'application/octet-stream', File Size: '265734 bytes', File Extension: 'bmp'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'Sample PDF Doc.pdf', File mime type: 'application/octet-stream', File Size: '147879 bytes', File Extension: 'pdf'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'Sample RTF Doc.rtf', File mime type: 'application/rtf', File Size: '41683 bytes', File Extension: 'rtf'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'Sample TXT Doc.txt', File mime type: 'text/plain', File Size: '17 bytes', File Extension: 'txt'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'VehicleDetails.xlsx', File mime type: 'application/octet-stream', File Size: '8027 bytes', File Extension: 'xlsx'
+2018-04-14 16:25:28 INFO  DVLA:26 - FileName: 'VehicleDetails_CSV.csv', File mime type: 'application/octet-stream', File Size: '120 bytes', File Extension: 'csv'
+2018-04-14 16:25:28 INFO  DVLA:30 -  
+2018-04-14 16:25:28 INFO  DVLA:47 - Listing all Valid files within the folder supplied
+
+2018-04-14 16:25:28 INFO  DVLA:41 - VehicleDetails.xlsx
+2018-04-14 16:25:28 INFO  DVLA:41 - VehicleDetails_CSV.csv
+2018-04-14 16:25:28 INFO  DVLA:44 -  
+2018-04-14 16:25:28 INFO  DVLA:58 - Listing all Invalid files within the folder supplied
+
+2018-04-14 16:25:28 INFO  DVLA:57 - GIF Sample Image file.GIF
+2018-04-14 16:25:28 INFO  DVLA:57 - JPG Sample Image file.JPG
+2018-04-14 16:25:28 INFO  DVLA:57 - MHT Sample Image file.MHT
+2018-04-14 16:25:28 INFO  DVLA:57 - PNG Sample Image file.PNG
+2018-04-14 16:25:28 INFO  DVLA:57 - Sample DOC Word Doc.doc
+2018-04-14 16:25:28 INFO  DVLA:57 - Sample DOCX Word Doc.docx
+2018-04-14 16:25:28 INFO  DVLA:57 - Sample Image file.bmp
+2018-04-14 16:25:28 INFO  DVLA:57 - Sample PDF Doc.pdf
+2018-04-14 16:25:28 INFO  DVLA:57 - Sample RTF Doc.rtf
+2018-04-14 16:25:28 INFO  DVLA:57 - Sample TXT Doc.txt
+2018-04-14 16:25:28 INFO  DVLA:59 -  
+2018-04-14 16:25:28 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:25:29 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:25:29 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:25:30 INFO  DVLA:23 - Searching for Vehicle Registration Number : X962 HAV
+2018-04-14 16:25:30 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> id: Vrm], Text: X962 HAV
+2018-04-14 16:25:30 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> name: Continue]
+2018-04-14 16:25:31 INFO  DVLA:32 - Validating the Vehicle details displayed : X962 HAV, TOYOTA, GOLD
+2018-04-14 16:25:31 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:25:31 INFO  DVLA:23 - Searching for Vehicle Registration Number : PJ51 KXF
+2018-04-14 16:25:31 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> id: Vrm], Text: PJ51 KXF
+2018-04-14 16:25:31 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> name: Continue]
+2018-04-14 16:25:31 INFO  DVLA:32 - Validating the Vehicle details displayed : PJ51 KXF, FORD, GREY
+2018-04-14 16:25:31 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:25:32 INFO  DVLA:23 - Searching for Vehicle Registration Number : KU03 OWV
+2018-04-14 16:25:32 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> id: Vrm], Text: KU03 OWV
+2018-04-14 16:25:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> name: Continue]
+2018-04-14 16:25:32 INFO  DVLA:32 - Validating the Vehicle details displayed : KU03 OWV, FORD, BLUE
+2018-04-14 16:25:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:25:32 INFO  DVLA:23 - Searching for Vehicle Registration Number : Y82 JPU
+2018-04-14 16:25:32 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> id: Vrm], Text: Y82 JPU
+2018-04-14 16:25:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> name: Continue]
+2018-04-14 16:25:33 INFO  DVLA:32 - Validating the Vehicle details displayed : Y82 JPU, FORD, GREEN
+2018-04-14 16:25:33 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:25:33 INFO  DVLA:23 - Searching for Vehicle Registration Number : MJ65 UFP
+2018-04-14 16:25:33 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> id: Vrm], Text: MJ65 UFP
+2018-04-14 16:25:33 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> name: Continue]
+2018-04-14 16:25:33 INFO  DVLA:32 - Validating the Vehicle details displayed : MJ65 UFP, BMW, WHITE
+2018-04-14 16:25:33 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:25:33 INFO  DVLA:23 - Searching for Vehicle Registration Number : MK04 MHJ
+2018-04-14 16:25:33 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> id: Vrm], Text: MK04 MHJ
+2018-04-14 16:25:34 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> name: Continue]
+2018-04-14 16:25:34 INFO  DVLA:32 - Validating the Vehicle details displayed : MK04 MHJ, VAUXHALL, SILVER
+2018-04-14 16:25:34 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (64ad5ee5f176d3b061edde19d204eda2)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:25:35 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:25:38 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:25:39 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:25:39 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (dd2a3ac58e826f558e391f746db85c30)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:25:40 INFO  DVLA:60 - ***Placed screen shot in C:\IdeaProjects\com.dvla\target\screenshots\screenshot_20180414_162540.png ***
+2018-04-14 16:27:22 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:27:27 INFO  DVLA:37 - Reading all files within the folder supplied and print the relavent File Details
+
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'GIF Sample Image file.GIF', File mime type: 'image/gif', File Size: '2519 bytes', File Extension: 'GIF'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'JPG Sample Image file.JPG', File mime type: 'image/jpeg', File Size: '20605 bytes', File Extension: 'JPG'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'MHT Sample Image file.MHT', File mime type: 'application/octet-stream', File Size: '7278 bytes', File Extension: 'MHT'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'PNG Sample Image file.PNG', File mime type: 'application/octet-stream', File Size: '4780 bytes', File Extension: 'PNG'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'Sample DOC Word Doc.doc', File mime type: 'application/octet-stream', File Size: '22528 bytes', File Extension: 'doc'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'Sample DOCX Word Doc.docx', File mime type: 'application/octet-stream', File Size: '11353 bytes', File Extension: 'docx'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'Sample Image file.bmp', File mime type: 'application/octet-stream', File Size: '265734 bytes', File Extension: 'bmp'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'Sample PDF Doc.pdf', File mime type: 'application/octet-stream', File Size: '147879 bytes', File Extension: 'pdf'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'Sample RTF Doc.rtf', File mime type: 'application/rtf', File Size: '41683 bytes', File Extension: 'rtf'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'Sample TXT Doc.txt', File mime type: 'text/plain', File Size: '17 bytes', File Extension: 'txt'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'VehicleDetails.xlsx', File mime type: 'application/octet-stream', File Size: '8027 bytes', File Extension: 'xlsx'
+2018-04-14 16:27:27 INFO  DVLA:26 - FileName: 'VehicleDetails_CSV.csv', File mime type: 'application/octet-stream', File Size: '120 bytes', File Extension: 'csv'
+2018-04-14 16:27:27 INFO  DVLA:30 -  
+2018-04-14 16:27:27 INFO  DVLA:47 - Listing all Valid files within the folder supplied
+
+2018-04-14 16:27:27 INFO  DVLA:41 - VehicleDetails.xlsx
+2018-04-14 16:27:27 INFO  DVLA:41 - VehicleDetails_CSV.csv
+2018-04-14 16:27:27 INFO  DVLA:44 -  
+2018-04-14 16:27:27 INFO  DVLA:58 - Listing all Invalid files within the folder supplied
+
+2018-04-14 16:27:27 INFO  DVLA:57 - GIF Sample Image file.GIF
+2018-04-14 16:27:27 INFO  DVLA:57 - JPG Sample Image file.JPG
+2018-04-14 16:27:27 INFO  DVLA:57 - MHT Sample Image file.MHT
+2018-04-14 16:27:27 INFO  DVLA:57 - PNG Sample Image file.PNG
+2018-04-14 16:27:27 INFO  DVLA:57 - Sample DOC Word Doc.doc
+2018-04-14 16:27:27 INFO  DVLA:57 - Sample DOCX Word Doc.docx
+2018-04-14 16:27:27 INFO  DVLA:57 - Sample Image file.bmp
+2018-04-14 16:27:27 INFO  DVLA:57 - Sample PDF Doc.pdf
+2018-04-14 16:27:27 INFO  DVLA:57 - Sample RTF Doc.rtf
+2018-04-14 16:27:27 INFO  DVLA:57 - Sample TXT Doc.txt
+2018-04-14 16:27:27 INFO  DVLA:59 -  
+2018-04-14 16:27:27 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:27:28 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:27:28 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:27:29 INFO  DVLA:23 - Searching for Vehicle Registration Number : X962 HAV
+2018-04-14 16:27:29 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> id: Vrm], Text: X962 HAV
+2018-04-14 16:27:29 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> name: Continue]
+2018-04-14 16:27:29 INFO  DVLA:32 - Validating the Vehicle details displayed : X962 HAV, TOYOTA, GOLD
+2018-04-14 16:27:29 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:27:30 INFO  DVLA:23 - Searching for Vehicle Registration Number : PJ51 KXF
+2018-04-14 16:27:30 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> id: Vrm], Text: PJ51 KXF
+2018-04-14 16:27:30 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> name: Continue]
+2018-04-14 16:27:30 INFO  DVLA:32 - Validating the Vehicle details displayed : PJ51 KXF, FORD, GREY
+2018-04-14 16:27:30 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:27:30 INFO  DVLA:23 - Searching for Vehicle Registration Number : KU03 OWV
+2018-04-14 16:27:30 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> id: Vrm], Text: KU03 OWV
+2018-04-14 16:27:30 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> name: Continue]
+2018-04-14 16:27:31 INFO  DVLA:32 - Validating the Vehicle details displayed : KU03 OWV, FORD, BLUE
+2018-04-14 16:27:31 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:27:31 INFO  DVLA:23 - Searching for Vehicle Registration Number : Y82 JPU
+2018-04-14 16:27:31 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> id: Vrm], Text: Y82 JPU
+2018-04-14 16:27:31 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> name: Continue]
+2018-04-14 16:27:31 INFO  DVLA:32 - Validating the Vehicle details displayed : Y82 JPU, FORD, GREEN
+2018-04-14 16:27:31 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:27:31 INFO  DVLA:23 - Searching for Vehicle Registration Number : MJ65 UFP
+2018-04-14 16:27:31 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> id: Vrm], Text: MJ65 UFP
+2018-04-14 16:27:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> name: Continue]
+2018-04-14 16:27:32 INFO  DVLA:32 - Validating the Vehicle details displayed : MJ65 UFP, BMW, WHITE
+2018-04-14 16:27:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:27:32 INFO  DVLA:23 - Searching for Vehicle Registration Number : MK04 MHJ
+2018-04-14 16:27:32 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> id: Vrm], Text: MK04 MHJ
+2018-04-14 16:27:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> name: Continue]
+2018-04-14 16:27:32 INFO  DVLA:32 - Validating the Vehicle details displayed : MK04 MHJ, VAUXHALL, SILVER
+2018-04-14 16:27:32 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (b4f6ea79f950b5ee4a599e353fd67ce6)] -> xpath: .//a[contains(text(),'Back')]]
+2018-04-14 16:27:33 INFO  DVLA:23 - Chrome Driver Path : C:\IdeaProjects\com.dvla\target\drivers\chromedriver-windows-32bit.exe
+
+2018-04-14 16:27:37 INFO  DVLA:41 - VehicleDetails.xlsx
+2018-04-14 16:27:37 INFO  DVLA:41 - VehicleDetails_CSV.csv
+2018-04-14 16:27:37 INFO  DVLA:44 -  
+2018-04-14 16:27:37 INFO  DVLA:15 - Navigating to URL: https://www.gov.uk/get-vehicle-information-from-dvla
+2018-04-14 16:27:38 INFO  DVLA:20 - Clicking on Start Now button on DVLA for Vehicle Search 
+2018-04-14 16:27:38 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (ba1e0b9055df96f05a49367423a9bf1d)] -> xpath: .//a[text()='Start now']]
+2018-04-14 16:27:38 INFO  DVLA:23 - Searching for Vehicle Registration Number : X962 HAV
+2018-04-14 16:27:38 INFO  DVLA:27 - Entering Text on Element: [[ChromeDriver: chrome on XP (ba1e0b9055df96f05a49367423a9bf1d)] -> id: Vrm], Text: X962 HAV
+2018-04-14 16:27:38 INFO  DVLA:21 - Clicking on Element: [[ChromeDriver: chrome on XP (ba1e0b9055df96f05a49367423a9bf1d)] -> name: Continue]
+2018-04-14 16:27:39 INFO  DVLA:32 - Validating the Vehicle details displayed : X962 HAV, TOYOTA, WHITE
+2018-04-14 16:27:39 INFO  DVLA:60 - ***Placed screen shot in C:\IdeaProjects\com.dvla\target\screenshots\screenshot_20180414_162739.png ***

@@ -1,0 +1,10 @@
+pages\ConfirmVehicleDetails.class
+Utilities\Config.class
+stepDefinitions\DVLASteps.class
+pages\GetVehicleInfo.class
+pages\RegistrationSearch.class
+Utilities\CSVUtil.class
+Utilities\ExcelUtil.class
+Utilities\FileServiceBean.class
+Utilities\Driver.class
+Utilities\ServiceHooks.class
